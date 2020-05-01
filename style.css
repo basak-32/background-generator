@@ -1,0 +1,20 @@
+body {
+    background: linear-gradient(to right, red, yellow);
+    text-align: center;
+}
+
+h1 {
+    font-family: cursive;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 0.5em;
+    font-size: 3em;
+}
+
+h2 {
+    font-family: cursive;
+    text-transform: uppercase;
+    letter-spacing: 0.3em;
+    font-size: 1.5em;
+    text-align: center;
+}
